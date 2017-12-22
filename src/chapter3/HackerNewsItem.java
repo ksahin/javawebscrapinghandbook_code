@@ -1,4 +1,4 @@
-package ebook_webscraping;
+package chapter3;
 
 public class HackerNewsItem {
 	private String title;

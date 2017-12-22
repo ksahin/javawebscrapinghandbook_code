@@ -1,4 +1,4 @@
-package ebook_webscraping;
+package chapter3;
 
 import java.util.List;
 
