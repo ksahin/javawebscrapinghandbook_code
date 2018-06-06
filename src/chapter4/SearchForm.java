@@ -16,7 +16,7 @@ import com.gargoylesoftware.htmlunit.javascript.host.html.HTMLTableElement;
 public class SearchForm {
 	
 	static final String baseUrl = "https://www.javawebscrapingsandbox.com/" ;
-	static final String MINPRICE = "200";
+	static final String MINPRICE = "300";
 	static final String MAXPRICE = "650" ;
 	
 	public static void main(String[] args) throws FailingHttpStatusCodeException, MalformedURLException, IOException {
