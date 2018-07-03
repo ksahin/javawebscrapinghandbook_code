@@ -1,3 +1,3 @@
 # javawebscrapinghandbook_code
 
-This is the code example for my ebook : https://www.javawebscrapinghandbook.com
+This is the code examples for my ebook : https://www.javawebscrapinghandbook.com
